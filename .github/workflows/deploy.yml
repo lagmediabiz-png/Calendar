@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/custom-calendar-google-d36oo7]
   workflow_dispatch:
 
 permissions:
